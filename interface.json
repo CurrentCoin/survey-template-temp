@@ -1,0 +1,11 @@
+{
+  "survey": {
+    "type": "enum",
+    "values": ["demoSurvey", "eventFeedbackSurvey", "conferenceFeedbackSurvey", "courseFeedbackSurvey"],
+    "default": "conferenceFeedbackSurvey"
+  },
+  "yourEmail": {
+    "type": "string",
+    "default": "example@currentcoincreate.com"
+  }
+}
